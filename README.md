@@ -17,6 +17,10 @@ Our story is set in the planet of Lengaburu......in the distant, distant galaxy 
 # Solution 
 
 ## Clone the repository 
+```git
+git clone git@github.com:PawanRamaMali/Family_Tree-Meet_The_Family.git
+
+```
 
 ## Install the dependencies 
 Run : pip install -r requirements.txt
